@@ -2,10 +2,6 @@
 
 I am **Joe-Manuel Schlüter**, an AI enthusiast specializing in **prompt engineering**. I focus on building AI-driven solutions and experimenting with cutting-edge technologies. Below you will find some of my featured projects and skills.
 
-## About Me
-
-I specialize in **prompt engineering** and am passionate about exploring the creative potential of AI technologies. My journey in AI involves designing prompts, building AI systems, and tackling real-world challenges with innovative solutions.
-
 ## Projects
 
 ### [Snake Game](https://github.com/joesaistuff/snake-game)
