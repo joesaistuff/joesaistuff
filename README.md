@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! 
 
-I am **Joe-Manuel Schlüter**, an AI enthusiast specializing in **prompt engineering**. I focus on building AI-driven solutions and experimenting with cutting-edge technologies. Below you will find some of my featured projects and skills.
+Hi! I'm Joe-Manuel Schlüter, an AI enthusiast specializing in prompt engineering. I explore innovative solutions through hands-on projects, designing prompts that address real-world challenges.
 
 ## Projects
 
