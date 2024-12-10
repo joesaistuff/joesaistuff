@@ -17,6 +17,3 @@ A classic Snake Game built with Python, showcasing my use of prompt engineering 
 ## Contact
 - Connect with me on [LinkedIn](https://linkedin.com/in/joesaistuff)
 
----
-
-&copy; 2024 Joe-Manuel Schlüter
