@@ -7,12 +7,14 @@ I am **Joe-Manuel Schlüter**, an AI enthusiast specializing in **prompt enginee
 ### [Snake Game](https://github.com/joesaistuff/snake-game)
 A classic Snake Game built with Python, showcasing my use of prompt engineering.
 
-## Skills
-- **AI Basics**
-- **Machine Learning Concepts**
-- **Python Programming**
-- **Building AI Projects**
-- **Prompt Engineering**
+## Skills  
+
+- **AI Basics**  
+- **Machine Learning Concepts**  
+- **Problem Solving**  
+- **Python Basics**  
+- **Building AI Projects**  
+- **Prompt Engineering**  
 
 ## Contact
 - Connect with me on [LinkedIn](https://linkedin.com/in/joesaistuff)
