@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Joe-Manuel Schlüter  
 
-Welcome to my GitHub profile! I'm a **Prompt Engineer** with a passion for exploring AI and creating practical, innovative projects.  
+Welcome to my GitHub profile! I'm a **AI Enthusiast** with a passion for exploring AI and creating practical, innovative projects.  
 
 ## 🔭 What I'm working on  
 - Building custom chatbots and intelligent solutions  
